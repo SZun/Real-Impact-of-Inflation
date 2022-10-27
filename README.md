@@ -20,6 +20,8 @@ $ conda --verison
 
 ### Installation
 ```
+$ git clone git@github.com:SZun/working-title.git
+$ cd working-title
 $ sh install.sh
 ```
 
@@ -33,5 +35,5 @@ $ sh install.sh
 ## Authors
 - **Gabriel Millan** - [LinkedIn](https://www.linkedin.com/in/millangabriel/) | [Github](https://github.com/gjmillan)
 - **Samuel Farrell** - [LinkedIn](https://www.linkedin.com/in/samuelcfarrell/) | [Github](https://github.com/SamCFarrell)
-- **Sami Naeem** - [LinkedIn](https://www.linkedin.com/in/szun/) | [Github](https://github.com/SZun)
+- **Sami Naeem** - [LinkedIn](https://www.linkedin.com/in/sami-naeem/) | [Github](https://github.com/SZun)
 - **Sam G Zun** - [LinkedIn](https://www.linkedin.com/in/szun/) | [Github](https://github.com/SZun)
