@@ -32,6 +32,6 @@ $ sh install.sh
 
 ## Authors
 - **Gabriel Millan** - [LinkedIn](https://www.linkedin.com/in/millangabriel/) | [Github](https://github.com/gjmillan)
-- **Samuel Farrell** - [LinkedIn](https://www.linkedin.com/in/samuelcfarrell/) | [Github](https://github.com/SZun)
+- **Samuel Farrell** - [LinkedIn](https://www.linkedin.com/in/samuelcfarrell/) | [Github](https://github.com/SamCFarrell)
 - **Sami Naeem** - [LinkedIn](https://www.linkedin.com/in/szun/) | [Github](https://github.com/SZun)
 - **Sam G Zun** - [LinkedIn](https://www.linkedin.com/in/szun/) | [Github](https://github.com/SZun)
