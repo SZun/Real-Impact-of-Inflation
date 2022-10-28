@@ -1,5 +1,6 @@
 # working-title
-to be decided...
+
+Our project is to uncover the difference between the reported and actual urban inflation. We will be using the CPI data, from the Bureau of Labor Statistics, with and without food and energy costs to answer this question. Additionally, we will also be analyzing the differences in inflation between the various US regions, compared to the national average, over time.
 
 ## [Notebook](./working-title.ipynb)
 
