@@ -7,4 +7,3 @@ conda install -c conda-forge pandas -y
 pip install plotly
 conda deactivate
 python -m ipykernel install --user --name real_impact_of_inflation_env
-jupyter lab
