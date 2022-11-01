@@ -32,7 +32,7 @@ $ sh install.sh
 
 ## Built With
 
-- [Pyplot](https://plotly.com/python/) - Visualization library
+- [Plotly](https://plotly.com/python/) - Visualization library
 - [Pandas](https://pandas.pydata.org/docs/#) - Data maniupulation library
 - [Numpy](https://numpy.org/) - Multi-dimensional array library
 - [Matplotlib](https://matplotlib.org/stable/index.html) - Visualization library

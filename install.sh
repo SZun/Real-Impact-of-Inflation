@@ -1,6 +1,10 @@
-jupyter kernelspec remove real_impact_of_inflation_env
+conda deactivate
+jupyter kernelspec remove real_impact_of_inflation_env -y
 conda env remove -n real_impact_of_inflation_env
-conda env create -f environment.yml
-jupyter kernelspec remove dev
-conda install -c conda-forge nb_conda_kernels -y
+conda create -n real_impact_of_inflation_env anaconda -y
+conda activate real_impact_of_inflation_env
+conda install -c conda-forge pandas -y
+pip install plotly
+conda deactivate
+python -m ipykernel install --user --name real_impact_of_inflation_env
 jupyter lab
