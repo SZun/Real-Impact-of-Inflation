@@ -6,4 +6,5 @@ conda activate real_impact_of_inflation_env
 conda install -c conda-forge pandas -y
 pip install plotly
 conda deactivate
-python -m ipykernel install --user --name real_impact_of_inflation_env
+conda remove nb_conda_kernels -y
+conda install -c conda-forge nb_conda_kernels -y
