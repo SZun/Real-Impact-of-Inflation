@@ -1,8 +1,12 @@
-# working-title
+# Real Impact of Inflation
 
 Our project is to uncover the difference between the reported and actual urban inflation. We will be using the CPI data, from the Bureau of Labor Statistics, with and without food and energy costs to answer this question. Additionally, we will also be analyzing the differences in inflation between the various US regions, compared to the national average, over time.
 
-## [Notebook](./working-title.ipynb)
+## [Notebook](./Real-Impact-of-Inflation.ipynb)
+
+<!-- Images Here -->
+<!-- []() -->
+
 
 ## Getting Started
 
@@ -21,8 +25,8 @@ $ conda --verison
 
 ### Installation
 ```
-$ git clone git@github.com:SZun/working-title.git
-$ cd working-title
+$ git clone git@github.com:SZun/Real-Impact-of-Inflation.git
+$ cd Real-Impact-of-Inflation
 $ sh install.sh
 ```
 

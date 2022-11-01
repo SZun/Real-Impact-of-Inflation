@@ -1,4 +1,4 @@
-name: workingtitleenv
+name: real_impact_of_inflation_env
 channels:
   - defaults
 dependencies:
