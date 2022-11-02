@@ -8,4 +8,3 @@ pip install plotly==5.11.0
 conda deactivate
 conda remove nb_conda_kernels -y
 conda install -c conda-forge nb_conda_kernels -y
-jupyter lab
