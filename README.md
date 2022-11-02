@@ -27,7 +27,7 @@ $ conda --verison
 ```
 $ git clone git@github.com:SZun/Real-Impact-of-Inflation.git
 $ cd Real-Impact-of-Inflation
-$ sh install.sh
+$ sh ./install.sh
 ```
 
 ## Built With
