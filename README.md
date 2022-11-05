@@ -25,18 +25,12 @@ $ conda --verison
 
 ### Installation
 ```
-$ git clone git@github.com:SZun/Real-Impact-of-Inflation.git
-$ cd Real-Impact-of-Inflation
-$ conda activate base
-$ jupyter kernelspec remove real_impact_of_inflation_env -y
-$ conda env remove -n real_impact_of_inflation_env
-$ conda create -n real_impact_of_inflation_env anaconda -y
-$ conda activate real_impact_of_inflation_env
-$ conda install -c conda-forge pandas panel geoviews hvplot cartopy -y
-$ pip install plotly==5.11.0
-$ conda activate base
-$ conda remove nb_conda_kernels -y
-$ conda install -c conda-forge nb_conda_kernels -y
+git clone git@github.com:SZun/Real-Impact-of-Inflation.git
+conda create -n real_impact_of_inflation_env anaconda -y
+conda activate real_impact_of_inflation_env
+conda install -c conda-forge pandas panel geoviews hvplot cartopy pandas-profiling -y
+pip install plotly==5.11.0
+python -m ipykernel install --user --name real_impact_of_inflation_env
 ```
 
 ## Built With
