@@ -25,15 +25,19 @@ $ conda --verison
 ```
 *# EXAMPLE OUTPUT: "conda 22.9.0"*
 
-### Installation
+### Install Environmnet
 ```
-git clone git@github.com:SZun/Real-Impact-of-Inflation.git
-cd Real-Impact-of-Inflation
 conda create -n real_impact_of_inflation_env anaconda -y
 conda activate real_impact_of_inflation_env
 conda install -c conda-forge pandas panel geoviews hvplot cartopy pandas-profiling -y
 pip install plotly==5.11.0
 python -m ipykernel install --user --name real_impact_of_inflation_env
+```
+
+### Clone Repository
+```
+git clone git@github.com:SZun/Real-Impact-of-Inflation.git
+cd Real-Impact-of-Inflation
 ```
 
 ## Built With
