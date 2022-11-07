@@ -29,7 +29,7 @@ $ conda --verison
 ```
 conda create -n real_impact_of_inflation_env anaconda -y
 conda activate real_impact_of_inflation_env
-conda install -c conda-forge pandas panel geoviews hvplot cartopy pandas-profiling -y
+conda install -c conda-forge pandas panel geoviews hvplot cartopy pandas-profiling python-kaleido selenium -y
 pip install plotly==5.11.0
 python -m ipykernel install --user --name real_impact_of_inflation_env
 ```
