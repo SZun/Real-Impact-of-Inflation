@@ -3,8 +3,8 @@
 Our project is to uncover the difference between the reported and actual urban inflation. We will be using the CPI data, from the Bureau of Labor Statistics, with and without food and energy costs to answer this question. Additionally, we will also be analyzing the differences in inflation between the various US regions, compared to the national average, over time.
 
 ## Notebooks
-- [Data Exploration](./Real-Impact-Of-Inflation.ipynb)
-- [Final Data Analysis](./Real-Impact-Of-Inflation.ipynb)
+- [Data Exploration](./Data-Exploration.ipynb)
+- [Final Data Analysis](./Final-Data-Analysis.ipynb)
 
 <!-- Images Here -->
 <!-- []() -->
