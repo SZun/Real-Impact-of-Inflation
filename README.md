@@ -6,8 +6,25 @@ Our project is to uncover the difference between the reported and actual urban i
 - [Data Exploration](./Data-Exploration.ipynb)
 - [Final Data Analysis](./Final-Data-Analysis.ipynb)
 
-<!-- Images Here -->
-<!-- []() -->
+## Plots
+![Plot1](./assets/images/average_regional_consumer_price_percentage_change_2012-2019.png)
+![Plot2](./assets/images/average_regional_consumer_price_percentage_change_2020-2022.png)
+![Plot3](./assets/images/categorical_consumer_price_correlations_2012-2019_plot.png)
+![Plot4](./assets/images/categorical_consumer_price_correlations_2020-2022_plot.png)
+![Plot5](./assets/images/monthly_regional_consumer_prices_january_2012_to_september_2022.png)
+![Plot6](./assets/images/nationa_and_regional_consumer_prices_2012-2022_plot.png)
+![Plot7](./assets/images/national_&_regional_consumer_prices_correlation_plot.png)
+![Plot8](./assets/images/national_consumer_prices_2012-2022_plot.png)
+![Plot9](./assets/images/national_consumer_prices_vs_national_consumer_prices_minus_food_&_energy_percent_changes_2012-2019_plot.png)
+![Plot10](./assets/images/national_consumer_prices_vs_national_consumer_prices_minus_food_&_energy_percent_changes_2020-2022_plot.png)
+![Plot11](./assets/images/national_price_vs_national_price_less_f&e_correlation_2012-2022_plot.png)
+![Plot12](./assets/images/national_prices_vs_national_prices_less_f&e_-_consumer_prices_2012-2019_plot.png)
+![Plot13](./assets/images/national_prices_vs_national_prices_less_f&e_-_consumer_prices_2012-2022_plot.png)
+![Plot14](./assets/images/national_prices_vs_national_prices_less_f&e_-_consumer_prices_2020-2022_plot.png)
+![Plot15](./assets/images/national_prices_vs_national_prices_less_f&e_-_percent_change_2012-2022_plot.png)
+![Plot16](./assets/images/national_prices_vs_national_prices_less_f&e_-_percent_change_2012_2019_plot.png)
+![Plot17](./assets/images/national_prices_vs_national_prices_less_f&e_-_percent_change_2020-2022_plot.png)
+![Plot18](./assets/images/regions_consumer_prices_2012-2022_plot.png)
 
 
 ## Getting Started
