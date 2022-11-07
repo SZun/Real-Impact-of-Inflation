@@ -63,7 +63,7 @@ class DF_Processor:
             # Dropping Year, Month, Day, Date columns
             df = df.drop(columns=['Year','Month','Day','Date'])
             # Dropping NaN values
-            df = df.dropna(is_regional)
+            df = df.dropna()
 
             # Adding dataframe to processed_dataframes list
             processed_dataframes.append(df)
