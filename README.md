@@ -86,8 +86,17 @@
 
 ### Prerequisites
 ​
-​You must have anaconda installed
+​You must have Python 3 installed
 
+```
+python3 --version
+```
+*# EXAMPLE OUTPUT:* 
+
+```
+Python 3.10.8
+```
+You must have Anaconda installed
 ```
 $ anaconda --version
 ```
@@ -96,7 +105,7 @@ $ anaconda --version
 ```
 anaconda Command line client (version 1.11.0)
 ```
-​You must have conda installed
+​You must have Conda installed
 
 ```
 $ conda --verison
@@ -109,7 +118,7 @@ conda 22.9.0
 
 ### Install Environmnet
 ```
-conda create -n real_impact_of_inflation_env anaconda -y
+conda create -n real_impact_of_inflation_env python=3.7 anaconda -y
 conda activate real_impact_of_inflation_env
 conda install -c conda-forge pandas panel geoviews hvplot cartopy pandas-profiling python-kaleido selenium -y
 pip install plotly==5.11.0
