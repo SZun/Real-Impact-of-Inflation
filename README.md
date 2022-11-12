@@ -1,7 +1,7 @@
 # Real Impact of Inflation
 ​Our project is to uncover the difference between the reported and actual urban inflation. We will be using the CPI data, from the Bureau of Labor Statistics, with and without food and energy costs to answer this question. Additionally, we will also be analyzing the differences in inflation between the various US regions, compared to the national average, over time.
 
-## [Video Presentation Link](https://zoom.us/rec/play/7dMKlXjWJOd7eYhYdvgnBoJUG8qCGMmLSPtMcuMxpWdxvp-m8Fm4bFgyAo4wW-n-9YiHFukOD2OR-8I2.NZJJ8mv1qpgQgBQf)
+## [Video Presentation Link](https://youtu.be/C1Gt66dgpBQ)
 ## Questions:
 ​1. What is the differences between the reported and the actual inflation on a national level?
 <br />
