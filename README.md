@@ -146,7 +146,7 @@ jupyter lab
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Geospacial data processing library
 - [Seaborn](https://seaborn.pydata.org/)  - Visualization library
 - [Pathlib](https://plotly.com/python/) - Python module for paths
-- [Datetime](https://plotly.com/python/) - - Python module for dates​
+- [Datetime](https://plotly.com/python/) - Python module for dates​
 
 ## Authors
 - **Gabriel Millan** - [LinkedIn](https://www.linkedin.com/in/millangabriel/) | [Github](https://github.com/gjmillan)
