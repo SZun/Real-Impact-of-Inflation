@@ -134,18 +134,19 @@ jupyter lab
 
 ## Built With
 
-- [Pandas](https://pandas.pydata.org/docs/#) - Data maniupulation library
-- [Numpy](https://numpy.org/) - Multi-dimensional array library
+- [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3713/)
+[![Python](https://img.shields.io/badge/Python-3.7.13-blue)](https://www.python.org/downloads/release/python-3713/) - Programming Language
+- [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/docs/#) - Data maniupulation library
+- [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/) - Multi-dimensional array library
+- [![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/python/) - Visualization library for plots
 - [Pandas Profiling](https://github.com/ydataai/pandas-profiling) - Generative reporting library
 - [Panel](https://panel.holoviz.org/) - Visualization library for dashboards
-- [Plotly](https://plotly.com/python/) - Visualization library for plots
 - [Hvplot](https://hvplot.holoviz.org/) - Visualization library for Pandas-based plots
 - [Geoviews](https://geoviews.org/#) - Visualization library for geographic data
 - [Cartopy](https://scitools.org.uk/cartopy/docs/latest/) - Geospacial data processing library
-- [Seaborn](https://seaborn.pydata.org/) - Visualization library
+- [Seaborn](https://seaborn.pydata.org/)  - Visualization library
 - [Pathlib](https://plotly.com/python/) - Python module for paths
-- [Datetime](https://plotly.com/python/) - Python module for dates
-​
+- [Datetime](https://plotly.com/python/) - - Python module for dates​
 
 ## Authors
 - **Gabriel Millan** - [LinkedIn](https://www.linkedin.com/in/millangabriel/) | [Github](https://github.com/gjmillan)
